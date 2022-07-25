@@ -2,9 +2,10 @@
 
 My name is Antonio Moyano, Im an IT Engineer student and currently participating in the Full Stack Developer bootcamp from 4GeeksAcademy.
 
+
 ### Contact me in:
 <a href="https://www.linkedin.com/in/antonio-moyano-465b35240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon"></a>
-</br>
+
 
 ### Languages I know:
 <div style="display:flex;">
@@ -16,6 +17,7 @@ My name is Antonio Moyano, Im an IT Engineer student and currently participating
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
 
 ### What am I working right now:
 
