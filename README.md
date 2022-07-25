@@ -6,6 +6,7 @@ My name is Antonio Moyano, Im an IT Engineer student and currently participating
 </br>
 <a href="https://www.linkedin.com/in/antonio-moyano-465b35240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon"></a>
 </br>
+
 ### Languages I know:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
