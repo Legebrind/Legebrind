@@ -20,7 +20,7 @@ My name is Antonio Moyano, Im an IT Engineer student and currently participating
 </div>
 
 
-### What am I working right now:
+### What am I working in right now:
 
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
