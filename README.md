@@ -1,6 +1,6 @@
 ## Welcome to my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!!
 
-My name is Antonio Moyano, Im an IT Engineer student and currently participating in the Full Stack Developer bootcamp from 4GeeksAcademy.
+My name is Antonio Moyano, Im an IT Engineer student and fullstack developer.
 
 
 ### Contact me in:
