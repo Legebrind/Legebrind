@@ -7,7 +7,7 @@ My name is Antonio Moyano, Im an IT Engineer student and fullstack developer.
 <a href="https://www.linkedin.com/in/antonio-moyano-465b35240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon"></a>
 
 
-### Languages I know:
+### What I can use:
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -21,7 +21,7 @@ My name is Antonio Moyano, Im an IT Engineer student and fullstack developer.
 </div>
 
 
-### What am I working in right now:
+### What I am learning right now:
 
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
